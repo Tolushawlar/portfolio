@@ -28,9 +28,10 @@ function Projects() {
               imgPath={chatify}
               isBlog={false}
               title="ArtistVote"
-              description="Web Essentials created a web and mobile app to replace a traditional show of hands voting process with a cutting-edge digital solution. Live-casting provides real-time results, transparency and information to all voters and viewers."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              description="A simple Web application created with the python django web framework that utilizes data science library, a web app to replace a traditional show of
+               hands voting process with a cutting-edge digital solution. Live-casting provides real-time results, transparency and information to all voters and viewers."
+              ghLink="https://github.com/Tolushawlar/artistvote"
+              //demoLink="/"
             />
           </Col>
 
@@ -39,9 +40,10 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="MetRight"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://blogs.soumya-jit.tech/"
+              description="A Student Management System with the python django web framework , These systems work to coordinate scheduling and communications between faculty regarding students.
+               This system exists to simplify information tracking for both staff and the students by the school administrator."
+              ghLink="https://github.com/Tolushawlar/metright"
+              //demoLink=""
             />
           </Col>
 
@@ -50,7 +52,8 @@ function Projects() {
               imgPath={editor}
               isBlog={false}
               title="MiniManage"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
+              description="This is a minimalistic budget management system created using the python django rest framework very easy to use, the user can enter an amount and description in order to compute the total amount of expenses.
+               The system will auto calculate the inputted amount and display the overall expense after"
               ghLink="https://github.com/Tolushawlar/intellmanage"
               demoLink="https://intellmanage.herokuapp.com/"              
             />
@@ -61,7 +64,8 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Bamzi"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              description="An ecommerce application built during an intership program, worked with the team that implemented the design using the react frontend libray and also the backend services was built
+              using the php laravel framework, worked on high order components as well as how to consume API data and send data also to a database."
               ghLink="https://github.com/soumyajit4419/Plant_AI"
               demoLink="https://bamzi.ivyarc.com/"
             />
@@ -72,7 +76,8 @@ function Projects() {
               imgPath={suicide}
               isBlog={false}
               title="Hotel Resort"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
+              description="A simple single page react application built to learn the basics of react and components, implemented data display and data fetching using the react context in building
+              the hotel resort website to display hotel rooms and also filter the data."
               ghLink="https://github.com/Tolushawlar/resort"
               demoLink="https://bearesort.netlify.app/" 
             />
@@ -83,8 +88,8 @@ function Projects() {
               imgPath={mot}
               isBlog={false}
               title="SpreeFree"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="This is a React bookstore application in which, user can view available books and its related information and also I can add
+              them to my spreeList for later reading. Built this application to develop my ability to use multireact components and also how to consume API's in react. Used the ecommerce.js API to host book information"
               ghLink="https://github.com/Tolushawlar/spreefree"
               demoLink="https://spreefree.netlify.app/" 
             />
@@ -95,8 +100,8 @@ function Projects() {
               imgPath={motion}
               isBlog={false}
               title="Royal Mobile"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="A landing page built for an NFT game using HTML CSS and Javascript, created various pages using different styling techniques and also included interactivity in the page
+              by designing it using javascript functions,"
               ghLink="https://github.com/Tolushawlar/royal-mobile"
               demoLink="https://royale-mobile.netlify.app/" 
             />
@@ -107,8 +112,8 @@ function Projects() {
               imgPath={emotion}
               isBlog={false}
               title="EaseLearn"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              description="This is a figma design implemented website that was built as part of the project during an internship programme, its an educational website, where students
+              can come to take tutorials and also as well answer questions to test their understanding of the topic studied."
               ghLink="https://github.com/Tolushawlar/easeLearn"
               demoLink="https://easelearn.netlify.app/"
             />
