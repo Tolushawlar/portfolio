@@ -66,7 +66,7 @@ function Projects() {
               title="Bamzi"
               description="An ecommerce application built during an intership program, worked with the team that implemented the design using the react frontend libray and also the backend services was built
               using the php laravel framework, worked on high order components as well as how to consume API data and send data also to a database."
-              ghLink="https://github.com/soumyajit4419/Plant_AI"
+              //ghLink=""
               demoLink="https://bamzi.ivyarc.com/"
             />
           </Col>
