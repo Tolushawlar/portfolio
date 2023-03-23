@@ -20,7 +20,7 @@ function Projects() {
           My Recent <strong className="purple">Works </strong>
         </h1>
         <p style={{ color: "white" }}>
-          Here are a few projects I've worked on recently.
+          Here are a few projects I've worked on.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
@@ -29,7 +29,7 @@ function Projects() {
               isBlog={false}
               title="ArtistVote"
               description="A simple Web application created with the python django web framework that utilizes data science library, a web app to replace a traditional show of
-               hands voting process with a cutting-edge digital solution. Live-casting provides real-time results, transparency and information to all voters and viewers."
+               hands voting process with a cutting-edge digital solution. Live-casting provides real-time results, transparency and information to all voters and viewers. (In Development)"
               ghLink="https://github.com/Tolushawlar/artistvote"
               //demoLink="/"
             />
@@ -41,7 +41,7 @@ function Projects() {
               isBlog={false}
               title="MetRight"
               description="A Student Management System with the python django web framework , These systems work to coordinate scheduling and communications between faculty regarding students.
-               This system exists to simplify information tracking for both staff and the students by the school administrator."
+               This system exists to simplify information tracking for both staff and the students by the school administrator. (In Development)"
               ghLink="https://github.com/Tolushawlar/metright"
               //demoLink=""
             />
@@ -64,7 +64,7 @@ function Projects() {
               imgPath={leaf}
               isBlog={false}
               title="Bamzi"
-              description="An ecommerce application built during an intership program, worked with the team that implemented the design using the react frontend libray and also the backend services was built
+              description="An ecommerce application built during an internship program, worked with the team that implemented the design using the react frontend libray and also the backend services was built
               using the php laravel framework, worked on high order components as well as how to consume API data and send data also to a database."
               //ghLink=""
               demoLink="https://bamzi.ivyarc.com/"

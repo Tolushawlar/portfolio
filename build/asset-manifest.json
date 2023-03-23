@@ -1,30 +1,33 @@
 {
   "files": {
     "main.css": "/static/css/main.2a067a25.css",
-    "main.js": "/static/js/main.411c1e43.js",
+    "main.js": "/static/js/main.64d7a4ea.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/lap.jpg": "/static/media/lap.b44595556d1e4c6e1678.jpg",
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
-    "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/book.png": "/static/media/book.bde38ae7134d6ce3e2dc.png",
+    "static/media/easelearn.png": "/static/media/easelearn.ae6867d73017cd9d98d1.png",
+    "static/media/updatedCV.pdf": "/static/media/updatedCV.1ce6a8e7939c2b7d238d.pdf",
+    "static/media/royal.png": "/static/media/royal.94937e650cfb76b282b7.png",
+    "static/media/resort.png": "/static/media/resort.760a5a5384c858bb1cde.png",
+    "static/media/updatedCV.png": "/static/media/updatedCV.8ca1f5b6c7a70d4523d3.png",
+    "static/media/Olusola.jpg": "/static/media/Olusola.92bcc8071013ce828d4a.jpg",
+    "static/media/bamiz.png": "/static/media/bamiz.d855acbd28adaa3d6acb.png",
+    "static/media/artistvote.png": "/static/media/artistvote.f54c4688767b558943b1.png",
     "static/media/coach.jpg": "/static/media/coach.b40daecd506bf7f0bd40.jpg",
-    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/metright.png": "/static/media/metright.9a2572cdb05c443dd801.png",
     "static/media/blue.png": "/static/media/blue.4a191a93ab4eb3b5c6e4.png",
-    "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-    "static/media/Soumyajit_Behera-BIT_MESRA.pdf": "/static/media/Soumyajit_Behera-BIT_MESRA.a1cb5c1907e31e31991a.pdf",
+    "static/media/intellmanage.png": "/static/media/intellmanage.20cfcfaa0dc1abd045d2.png",
     "static/media/undraw_startup_life_re_8ow9 (1).svg": "/static/media/undraw_startup_life_re_8ow9 (1).400c3dea4b3fa17beb1e36fddfc7fc41.svg",
     "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/index.html",
     "main.2a067a25.css.map": "/static/css/main.2a067a25.css.map",
-    "main.411c1e43.js.map": "/static/js/main.411c1e43.js.map",
+    "main.64d7a4ea.js.map": "/static/js/main.64d7a4ea.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a067a25.css",
-    "static/js/main.411c1e43.js"
+    "static/js/main.64d7a4ea.js"
   ]
 }
