@@ -1,6 +1,7 @@
 import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/coach.jpg";
+import myImg from "../../Assets/meee.jpg";
+import coachImg from "../../Assets/coach.jpg";
 import Tilt from "react-parallax-tilt";
 import {
   AiFillGithub,
@@ -53,13 +54,30 @@ function Home2() {
           </Col>
           <Col md={4} className="myAvtar" >
             <Tilt>
-              <img src={myImg} style={{borderRadius:200}} className="img-fluid" alt="avatar" />
+              <div style={{ position: "relative", display: "inline-block" }}>
+                <img src={myImg} style={{borderRadius:200}} className="img-fluid" alt="avatar" />
+                <img 
+                  src={coachImg} 
+                  style={{
+                    position: "absolute",
+                    top: "10px",
+                    right: "10px",
+                    width: "80px",
+                    height: "80px",
+                    borderRadius: "50%",
+                    border: "3px solid white",
+                    objectFit: "cover"
+                  }} 
+                  className="coach-overlay" 
+                  alt="coach" 
+                />
+              </div>
             </Tilt>
           </Col>
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
-            <h1>FIND ME ON</h1>
+            <h1>Let's Connect</h1>
             <ul className="home-about-social-links">
               <li className="social-icons">
                 <a
@@ -83,7 +101,7 @@ function Home2() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://www.linkedin.com/in/olusola-itunu-082783128/"
+                  href="https://www.linkedin.com/in/olusola-itunu"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour  home-social-icons"
